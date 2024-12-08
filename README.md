@@ -2,7 +2,7 @@
 
 LeetCode stats:
 
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=amaliyabag)
+[![Leetcode Stats](https://leetcode-badge-sage.vercel.app/badge/amaliyabag?theme=light)](https://leetcode.com/amaliyabag)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bagi4-source)
 
